@@ -1,0 +1,249 @@
+[Sat Apr 05 10:46:09 IST 2025] [Sat Apr 05 10:46:09 IST 2025] Battery: 27% (discharging), Cycle Count: 23
+[Sat Apr 05 10:46:10 IST 2025] Pushbullet notification sent: Battery Update
+[Sat Apr 05 10:46:22 IST 2025] [Sat Apr 05 10:46:22 IST 2025] Battery: 27% (discharging), Cycle Count: 23
+[Sat Apr 05 10:46:23 IST 2025] Pushbullet notification sent: Battery Update
+[Sat Apr 05 10:46:51 IST 2025] [Sat Apr 05 10:46:51 IST 2025] Battery: 27% (discharging), Cycle Count: 23
+[Sat Apr 05 10:46:52 IST 2025] Pushbullet notification sent: Battery Update
+[Sat Apr 05 10:47:23 IST 2025] [Sat Apr 05 10:47:23 IST 2025] Battery: 27% (discharging), Cycle Count: 23
+[Sat Apr 05 10:47:52 IST 2025] [Sat Apr 05 10:47:52 IST 2025] Battery: 27% (discharging), Cycle Count: 23
+[Sat Apr 05 10:48:24 IST 2025] [Sat Apr 05 10:48:24 IST 2025] Battery: 27% (discharging), Cycle Count: 23
+[Sat Apr 05 10:48:48 IST 2025] [Sat Apr 05 10:48:48 IST 2025] Battery: 27% (discharging), Cycle Count: 23
+[Sat Apr 05 10:48:49 IST 2025] Pushbullet notification sent: Battery Update
+[Sat Apr 05 10:48:52 IST 2025] [Sat Apr 05 10:48:52 IST 2025] Battery: 27% (discharging), Cycle Count: 23
+[Sat Apr 05 10:49:19 IST 2025] [Sat Apr 05 10:49:19 IST 2025] Battery: 27% (discharging), Cycle Count: 23
+[Sat Apr 05 10:49:21 IST 2025] Pushbullet notification sent: Battery Update
+[Sat Apr 05 10:49:52 IST 2025] [Sat Apr 05 10:49:52 IST 2025] Battery: 27% (discharging), Cycle Count: 23
+[Sat Apr 05 10:50:21 IST 2025] [Sat Apr 05 10:50:21 IST 2025] Battery: 27% (discharging), Cycle Count: 23
+[Sat Apr 05 10:50:53 IST 2025] [Sat Apr 05 10:50:53 IST 2025] Battery: 26% (discharging), Cycle Count: 23
+[Sat Apr 05 10:50:53 IST 2025] [Sat Apr 05 10:50:53 IST 2025] Battery: 26% (discharging), Cycle Count: 23
+[Sat Apr 05 10:50:54 IST 2025] Pushbullet notification sent: Battery Update
+[Sat Apr 05 10:51:21 IST 2025] [Sat Apr 05 10:51:21 IST 2025] Battery: 26% (discharging), Cycle Count: 23
+[Sat Apr 05 10:51:53 IST 2025] [Sat Apr 05 10:51:53 IST 2025] Battery: 26% (discharging), Cycle Count: 23
+[Sat Apr 05 10:51:55 IST 2025] [Sat Apr 05 10:51:55 IST 2025] Battery: 26% (discharging), Cycle Count: 23
+[Sat Apr 05 10:52:21 IST 2025] [Sat Apr 05 10:52:21 IST 2025] Battery: 26% (discharging), Cycle Count: 23
+[Sat Apr 05 10:52:53 IST 2025] [Sat Apr 05 10:52:53 IST 2025] Battery: 26% (discharging), Cycle Count: 23
+[Sat Apr 05 10:52:55 IST 2025] [Sat Apr 05 10:52:55 IST 2025] Battery: 26% (discharging), Cycle Count: 23
+[Sat Apr 05 10:53:21 IST 2025] [Sat Apr 05 10:53:21 IST 2025] Battery: 26% (discharging), Cycle Count: 23
+[Sat Apr 05 10:53:53 IST 2025] [Sat Apr 05 10:53:53 IST 2025] Battery: 26% (discharging), Cycle Count: 23
+[Sat Apr 05 10:53:55 IST 2025] [Sat Apr 05 10:53:55 IST 2025] Battery: 26% (discharging), Cycle Count: 23
+[Sat Apr 05 10:54:21 IST 2025] [Sat Apr 05 10:54:21 IST 2025] Battery: 26% (discharging), Cycle Count: 23
+[Sat Apr 05 10:54:53 IST 2025] [Sat Apr 05 10:54:53 IST 2025] Battery: 26% (discharging), Cycle Count: 23
+[Sat Apr 05 10:54:55 IST 2025] [Sat Apr 05 10:54:55 IST 2025] Battery: 26% (discharging), Cycle Count: 23
+[Sat Apr 05 10:55:22 IST 2025] [Sat Apr 05 10:55:22 IST 2025] Battery: 26% (discharging), Cycle Count: 23
+[Sat Apr 05 10:55:54 IST 2025] [Sat Apr 05 10:55:54 IST 2025] Battery: 26% (discharging), Cycle Count: 23
+[Sat Apr 05 10:55:55 IST 2025] [Sat Apr 05 10:55:55 IST 2025] Battery: 26% (discharging), Cycle Count: 23
+[Sat Apr 05 10:56:22 IST 2025] [Sat Apr 05 10:56:22 IST 2025] Battery: 26% (discharging), Cycle Count: 23
+[Sat Apr 05 10:56:54 IST 2025] [Sat Apr 05 10:56:54 IST 2025] Battery: 26% (discharging), Cycle Count: 23
+[Sat Apr 05 10:56:56 IST 2025] [Sat Apr 05 10:56:56 IST 2025] Battery: 26% (discharging), Cycle Count: 23
+[Sat Apr 05 10:57:22 IST 2025] [Sat Apr 05 10:57:22 IST 2025] Battery: 26% (discharging), Cycle Count: 23
+[Sat Apr 05 10:57:54 IST 2025] [Sat Apr 05 10:57:54 IST 2025] Battery: 26% (discharging), Cycle Count: 23
+[Sat Apr 05 10:57:56 IST 2025] [Sat Apr 05 10:57:56 IST 2025] Battery: 26% (discharging), Cycle Count: 23
+[Sat Apr 05 10:58:22 IST 2025] [Sat Apr 05 10:58:22 IST 2025] Battery: 26% (discharging), Cycle Count: 23
+[Sat Apr 05 10:58:54 IST 2025] [Sat Apr 05 10:58:54 IST 2025] Battery: 25% (discharging), Cycle Count: 23
+[Sat Apr 05 10:58:56 IST 2025] [Sat Apr 05 10:58:56 IST 2025] Battery: 25% (discharging), Cycle Count: 23
+[Sat Apr 05 10:59:22 IST 2025] [Sat Apr 05 10:59:22 IST 2025] Battery: 25% (discharging), Cycle Count: 23
+[Sat Apr 05 10:59:54 IST 2025] [Sat Apr 05 10:59:54 IST 2025] Battery: 25% (discharging), Cycle Count: 23
+[Sat Apr 05 10:59:56 IST 2025] [Sat Apr 05 10:59:56 IST 2025] Battery: 25% (discharging), Cycle Count: 23
+[Sat Apr 05 11:00:23 IST 2025] [Sat Apr 05 11:00:23 IST 2025] Battery: 25% (discharging), Cycle Count: 23
+[Sat Apr 05 11:00:55 IST 2025] [Sat Apr 05 11:00:55 IST 2025] Battery: 25% (discharging), Cycle Count: 23
+[Sat Apr 05 11:00:57 IST 2025] [Sat Apr 05 11:00:57 IST 2025] Battery: 25% (discharging), Cycle Count: 23
+[Sat Apr 05 11:01:23 IST 2025] [Sat Apr 05 11:01:23 IST 2025] Battery: 25% (discharging), Cycle Count: 23
+[Sat Apr 05 11:01:55 IST 2025] [Sat Apr 05 11:01:55 IST 2025] Battery: 25% (discharging), Cycle Count: 23
+[Sat Apr 05 11:01:57 IST 2025] [Sat Apr 05 11:01:57 IST 2025] Battery: 25% (discharging), Cycle Count: 23
+[Sat Apr 05 11:02:23 IST 2025] [Sat Apr 05 11:02:23 IST 2025] Battery: 25% (discharging), Cycle Count: 23
+[Sat Apr 05 11:02:27 IST 2025] [Sat Apr 05 11:02:27 IST 2025] Battery: 25% (discharging), Cycle Count: 23
+[Sat Apr 05 11:02:28 IST 2025] Pushbullet notification sent: Battery Update
+[Sat Apr 05 11:02:45 IST 2025] [Sat Apr 05 11:02:45 IST 2025] Battery: 25% (discharging), Cycle Count: 23
+[Sat Apr 05 11:02:46 IST 2025] Pushbullet notification sent: Battery Update
+[Sat Apr 05 11:02:55 IST 2025] [Sat Apr 05 11:02:55 IST 2025] Battery: 25% (discharging), Cycle Count: 23
+[Sat Apr 05 11:02:57 IST 2025] [Sat Apr 05 11:02:57 IST 2025] Battery: 25% (discharging), Cycle Count: 23
+[Sat Apr 05 11:03:46 IST 2025] [Sat Apr 05 11:03:46 IST 2025] Battery: 25% (discharging), Cycle Count: 23
+[Sat Apr 05 11:03:55 IST 2025] [Sat Apr 05 11:03:55 IST 2025] Battery: 25% (discharging), Cycle Count: 23
+[Sat Apr 05 11:03:57 IST 2025] [Sat Apr 05 11:03:57 IST 2025] Battery: 25% (discharging), Cycle Count: 23
+[Sat Apr 05 11:04:47 IST 2025] [Sat Apr 05 11:04:47 IST 2025] Battery: 25% (discharging), Cycle Count: 23
+[Sat Apr 05 11:04:55 IST 2025] [Sat Apr 05 11:04:55 IST 2025] Battery: 25% (discharging), Cycle Count: 23
+[Sat Apr 05 11:04:57 IST 2025] [Sat Apr 05 11:04:57 IST 2025] Battery: 25% (discharging), Cycle Count: 23
+[Sat Apr 05 11:05:47 IST 2025] [Sat Apr 05 11:05:47 IST 2025] Battery: 25% (discharging), Cycle Count: 23
+[Sat Apr 05 11:05:55 IST 2025] [Sat Apr 05 11:05:55 IST 2025] Battery: 24% (discharging), Cycle Count: 23
+[Sat Apr 05 11:05:58 IST 2025] [Sat Apr 05 11:05:58 IST 2025] Battery: 24% (discharging), Cycle Count: 23
+[Sat Apr 05 11:06:02 IST 2025] [Sat Apr 05 11:06:02 IST 2025] Battery: 24% (discharging), Cycle Count: 23
+[Sat Apr 05 11:06:03 IST 2025] Failed to send Pushbullet notification: Server returned HTTP response code: 401 for URL: https://api.pushbullet.com/v2/pushes
+[Sat Apr 05 11:06:03 IST 2025] Milestone reached: Battery is at 24% and discharging.
+[Sat Apr 05 11:06:47 IST 2025] [Sat Apr 05 11:06:47 IST 2025] Battery: 24% (discharging), Cycle Count: 23
+[Sat Apr 05 11:06:56 IST 2025] [Sat Apr 05 11:06:56 IST 2025] Battery: 24% (discharging), Cycle Count: 23
+[Sat Apr 05 11:06:58 IST 2025] [Sat Apr 05 11:06:58 IST 2025] Battery: 24% (discharging), Cycle Count: 23
+[Sat Apr 05 11:06:59 IST 2025] [Sat Apr 05 11:06:59 IST 2025] Battery: 24% (discharging), Cycle Count: 23
+[Sat Apr 05 11:07:00 IST 2025] Pushbullet notification sent: Battery Update
+[Sat Apr 05 11:07:00 IST 2025] Milestone reached: Battery is at 24% and discharging.
+[Sat Apr 05 11:07:03 IST 2025] [Sat Apr 05 11:07:03 IST 2025] Battery: 24% (discharging), Cycle Count: 23
+[Sat Apr 05 11:07:56 IST 2025] [Sat Apr 05 11:07:56 IST 2025] Battery: 24% (discharging), Cycle Count: 23
+[Sat Apr 05 11:07:58 IST 2025] [Sat Apr 05 11:07:58 IST 2025] Battery: 24% (discharging), Cycle Count: 23
+[Sat Apr 05 11:08:00 IST 2025] [Sat Apr 05 11:08:00 IST 2025] Battery: 24% (discharging), Cycle Count: 23
+[Sat Apr 05 11:08:13 IST 2025] [Sat Apr 05 11:08:13 IST 2025] Battery: 24% (discharging), Cycle Count: 23
+[Sat Apr 05 11:08:14 IST 2025] Pushbullet notification sent: Battery Update
+[Sat Apr 05 11:08:14 IST 2025] Milestone reached: Battery is at 24% and discharging.
+[Sat Apr 05 11:08:56 IST 2025] [Sat Apr 05 11:08:56 IST 2025] Battery: 24% (discharging), Cycle Count: 23
+[Sat Apr 05 11:08:58 IST 2025] [Sat Apr 05 11:08:58 IST 2025] Battery: 24% (discharging), Cycle Count: 23
+[Sat Apr 05 11:09:00 IST 2025] [Sat Apr 05 11:09:00 IST 2025] Battery: 24% (discharging), Cycle Count: 23
+[Sat Apr 05 11:09:14 IST 2025] [Sat Apr 05 11:09:14 IST 2025] Battery: 24% (discharging), Cycle Count: 23
+[Sat Apr 05 11:09:56 IST 2025] [Sat Apr 05 11:09:56 IST 2025] Battery: 24% (discharging), Cycle Count: 23
+[Sat Apr 05 11:09:58 IST 2025] [Sat Apr 05 11:09:58 IST 2025] Battery: 24% (discharging), Cycle Count: 23
+[Sat Apr 05 11:10:01 IST 2025] [Sat Apr 05 11:10:01 IST 2025] Battery: 24% (discharging), Cycle Count: 23
+[Sat Apr 05 11:10:56 IST 2025] [Sat Apr 05 11:10:56 IST 2025] Battery: 24% (discharging), Cycle Count: 23
+[Sat Apr 05 11:10:59 IST 2025] [Sat Apr 05 11:10:59 IST 2025] Battery: 24% (discharging), Cycle Count: 23
+[Sat Apr 05 11:11:01 IST 2025] [Sat Apr 05 11:11:01 IST 2025] Battery: 24% (discharging), Cycle Count: 23
+[Sat Apr 05 11:11:56 IST 2025] [Sat Apr 05 11:11:56 IST 2025] Battery: 23% (discharging), Cycle Count: 23
+[Sat Apr 05 11:11:59 IST 2025] [Sat Apr 05 11:11:59 IST 2025] Battery: 23% (discharging), Cycle Count: 23
+[Sat Apr 05 11:12:01 IST 2025] [Sat Apr 05 11:12:01 IST 2025] Battery: 23% (discharging), Cycle Count: 23
+[Sat Apr 05 11:12:57 IST 2025] [Sat Apr 05 11:12:57 IST 2025] Battery: 23% (discharging), Cycle Count: 23
+[Sat Apr 05 11:12:59 IST 2025] [Sat Apr 05 11:12:59 IST 2025] Battery: 23% (discharging), Cycle Count: 23
+[Sat Apr 05 11:13:01 IST 2025] [Sat Apr 05 11:13:01 IST 2025] Battery: 23% (discharging), Cycle Count: 23
+[Sat Apr 05 11:13:57 IST 2025] [Sat Apr 05 11:13:57 IST 2025] Battery: 23% (discharging), Cycle Count: 23
+[Sat Apr 05 11:13:59 IST 2025] [Sat Apr 05 11:13:59 IST 2025] Battery: 23% (discharging), Cycle Count: 23
+[Sat Apr 05 11:14:01 IST 2025] [Sat Apr 05 11:14:01 IST 2025] Battery: 23% (discharging), Cycle Count: 23
+[Sat Apr 05 11:14:57 IST 2025] [Sat Apr 05 11:14:57 IST 2025] Battery: 23% (discharging), Cycle Count: 23
+[Sat Apr 05 11:14:59 IST 2025] [Sat Apr 05 11:14:59 IST 2025] Battery: 23% (discharging), Cycle Count: 23
+[Sat Apr 05 11:15:02 IST 2025] [Sat Apr 05 11:15:02 IST 2025] Battery: 23% (discharging), Cycle Count: 23
+[Sat Apr 05 11:15:57 IST 2025] [Sat Apr 05 11:15:57 IST 2025] Battery: 23% (discharging), Cycle Count: 23
+[Sat Apr 05 11:16:00 IST 2025] [Sat Apr 05 11:16:00 IST 2025] Battery: 23% (discharging), Cycle Count: 23
+[Sat Apr 05 11:16:02 IST 2025] [Sat Apr 05 11:16:02 IST 2025] Battery: 23% (discharging), Cycle Count: 23
+[Sat Apr 05 11:16:57 IST 2025] [Sat Apr 05 11:16:57 IST 2025] Battery: 23% (discharging), Cycle Count: 23
+[Sat Apr 05 11:17:00 IST 2025] [Sat Apr 05 11:17:00 IST 2025] Battery: 23% (discharging), Cycle Count: 23
+[Sat Apr 05 11:17:02 IST 2025] [Sat Apr 05 11:17:02 IST 2025] Battery: 23% (discharging), Cycle Count: 23
+[Sat Apr 05 11:17:57 IST 2025] [Sat Apr 05 11:17:57 IST 2025] Battery: 23% (discharging), Cycle Count: 23
+[Sat Apr 05 11:18:00 IST 2025] [Sat Apr 05 11:18:00 IST 2025] Battery: 23% (discharging), Cycle Count: 23
+[Sat Apr 05 11:18:02 IST 2025] [Sat Apr 05 11:18:02 IST 2025] Battery: 23% (discharging), Cycle Count: 23
+[Sat Apr 05 11:19:20 IST 2025] [Sat Apr 05 11:19:20 IST 2025] Battery: 22% (discharging), Cycle Count: 23
+[Sat Apr 05 11:19:22 IST 2025] Pushbullet notification sent: Battery Update
+[Sat Apr 05 11:19:22 IST 2025] Milestone reached: Battery is at 22% and discharging.
+[Sat Apr 05 11:20:22 IST 2025] [Sat Apr 05 11:20:22 IST 2025] Battery: 21% (discharging), Cycle Count: 23
+[Sat Apr 05 11:21:22 IST 2025] [Sat Apr 05 11:21:22 IST 2025] Battery: 21% (discharging), Cycle Count: 23
+[Sat Apr 05 11:22:22 IST 2025] [Sat Apr 05 11:22:22 IST 2025] Battery: 21% (discharging), Cycle Count: 23
+[Sat Apr 05 11:22:55 IST 2025] [Sat Apr 05 11:22:55 IST 2025] Battery: 21% (discharging), Cycle Count: 23
+[Sat Apr 05 11:22:56 IST 2025] Pushbullet notification sent: Battery Update
+[Sat Apr 05 11:22:56 IST 2025] Milestone reached: Battery is at 21% and discharging.
+[Sat Apr 05 11:23:22 IST 2025] [Sat Apr 05 11:23:22 IST 2025] Battery: 21% (discharging), Cycle Count: 23
+[Sat Apr 05 11:23:56 IST 2025] [Sat Apr 05 11:23:56 IST 2025] Battery: 21% (discharging), Cycle Count: 23
+[Sat Apr 05 11:24:23 IST 2025] [Sat Apr 05 11:24:23 IST 2025] Battery: 21% (discharging), Cycle Count: 23
+[Sat Apr 05 11:25:23 IST 2025] [Sat Apr 05 11:25:23 IST 2025] Battery: 21% (discharging), Cycle Count: 23
+[Sat Apr 05 11:26:23 IST 2025] [Sat Apr 05 11:26:23 IST 2025] Battery: 21% (discharging), Cycle Count: 23
+[Sat Apr 05 11:27:23 IST 2025] [Sat Apr 05 11:27:23 IST 2025] Battery: 21% (discharging), Cycle Count: 23
+[Sat Apr 05 11:28:23 IST 2025] [Sat Apr 05 11:28:23 IST 2025] Battery: 21% (discharging), Cycle Count: 23
+[Sat Apr 05 11:29:23 IST 2025] [Sat Apr 05 11:29:23 IST 2025] Battery: 21% (discharging), Cycle Count: 23
+[Sat Apr 05 11:30:24 IST 2025] [Sat Apr 05 11:30:24 IST 2025] Battery: 21% (discharging), Cycle Count: 23
+[Sat Apr 05 11:31:24 IST 2025] [Sat Apr 05 11:31:24 IST 2025] Battery: 20% (discharging), Cycle Count: 23
+[Sat Apr 05 11:31:25 IST 2025] Pushbullet notification sent: Battery Low
+[Sat Apr 05 11:31:25 IST 2025] Sent 20% warning: Battery at 20% – Please plug in the charger.
+[Sat Apr 05 11:32:25 IST 2025] [Sat Apr 05 11:32:25 IST 2025] Battery: 20% (discharging), Cycle Count: 23
+[Sat Apr 05 11:33:25 IST 2025] [Sat Apr 05 11:33:25 IST 2025] Battery: 20% (charging), Cycle Count: 23
+[Sat Apr 05 11:36:28 IST 2025] [Sat Apr 05 11:36:28 IST 2025] Battery: 23% (charging), Cycle Count: 23
+[Sat Apr 05 11:39:37 IST 2025] [Sat Apr 05 11:39:37 IST 2025] Battery: 25% (charging), Cycle Count: 23
+[Sat Apr 05 11:40:38 IST 2025] [Sat Apr 05 11:40:38 IST 2025] Battery: 26% (charging), Cycle Count: 23
+[Sat Apr 05 11:42:01 IST 2025] [Sat Apr 05 11:42:01 IST 2025] Battery: 27% (charging), Cycle Count: 23
+[Sat Apr 05 11:46:37 IST 2025] [Sat Apr 05 11:46:37 IST 2025] Battery: 32% (charging), Cycle Count: 23
+[Sat Apr 05 11:46:38 IST 2025] Pushbullet notification sent: Battery Update
+[Sat Apr 05 11:46:38 IST 2025] Milestone reached: Battery is at 32% and charging.
+[Sat Apr 05 11:48:35 IST 2025] [Sat Apr 05 11:48:35 IST 2025] Battery: 33% (charging), Cycle Count: 23
+[Sat Apr 05 12:06:43 IST 2025] [Sat Apr 05 12:06:43 IST 2025] Battery: 50% (charging), Cycle Count: 23
+[Sat Apr 05 12:06:44 IST 2025] Pushbullet notification sent: Battery Update
+[Sat Apr 05 12:06:44 IST 2025] Milestone reached: Battery is at 50% and charging.
+[Sat Apr 05 12:07:44 IST 2025] [Sat Apr 05 12:07:44 IST 2025] Battery: 50% (charging), Cycle Count: 23
+[Sat Apr 05 12:08:44 IST 2025] [Sat Apr 05 12:08:44 IST 2025] Battery: 51% (charging), Cycle Count: 23
+[Sat Apr 05 12:09:45 IST 2025] [Sat Apr 05 12:09:45 IST 2025] Battery: 52% (charging), Cycle Count: 23
+[Sat Apr 05 12:10:45 IST 2025] [Sat Apr 05 12:10:45 IST 2025] Battery: 53% (charging), Cycle Count: 23
+[Sat Apr 05 12:11:45 IST 2025] [Sat Apr 05 12:11:45 IST 2025] Battery: 54% (charging), Cycle Count: 23
+[Sat Apr 05 12:12:45 IST 2025] [Sat Apr 05 12:12:45 IST 2025] Battery: 55% (charging), Cycle Count: 23
+[Sat Apr 05 12:13:45 IST 2025] [Sat Apr 05 12:13:45 IST 2025] Battery: 56% (charging), Cycle Count: 23
+[Sat Apr 05 12:14:45 IST 2025] [Sat Apr 05 12:14:45 IST 2025] Battery: 57% (charging), Cycle Count: 23
+[Sat Apr 05 12:15:46 IST 2025] [Sat Apr 05 12:15:46 IST 2025] Battery: 57% (charging), Cycle Count: 23
+[Sat Apr 05 12:16:46 IST 2025] [Sat Apr 05 12:16:46 IST 2025] Battery: 58% (charging), Cycle Count: 23
+[Sat Apr 05 12:31:38 IST 2025] [Sat Apr 05 12:31:38 IST 2025] Battery: 71% (charging), Cycle Count: 23
+[Sat Apr 05 12:31:40 IST 2025] Pushbullet notification sent: Battery Update
+[Sat Apr 05 12:31:40 IST 2025] Milestone reached: Battery is at 71% and charging.
+[Sat Apr 05 12:33:30 IST 2025] [Sat Apr 05 12:33:30 IST 2025] Battery: 72% (charging), Cycle Count: 23
+[Sat Apr 05 12:41:30 IST 2025] [Sat Apr 05 12:41:30 IST 2025] Battery: 79% (charging), Cycle Count: 23
+[Sat Apr 05 12:42:30 IST 2025] [Sat Apr 05 12:42:30 IST 2025] Battery: 80% (charging), Cycle Count: 23
+[Sat Apr 05 12:42:31 IST 2025] Pushbullet notification sent: Battery Charged
+[Sat Apr 05 12:42:31 IST 2025] Sent 80% charged warning: Battery at 80% – Please unplug the charger.
+[Sat Apr 05 12:42:31 IST 2025] Pushbullet notification sent: Battery Update
+[Sat Apr 05 12:42:31 IST 2025] Milestone reached: Battery is at 80% and charging.
+[Sat Apr 05 12:43:31 IST 2025] [Sat Apr 05 12:43:31 IST 2025] Battery: 80% (discharging), Cycle Count: 23
+[Sat Apr 05 12:46:25 IST 2025] [Sat Apr 05 12:46:25 IST 2025] Battery: 80% (discharging), Cycle Count: 23
+[Sat Apr 05 12:47:25 IST 2025] [Sat Apr 05 12:47:25 IST 2025] Battery: 80% (discharging), Cycle Count: 23
+[Sat Apr 05 12:48:26 IST 2025] [Sat Apr 05 12:48:26 IST 2025] Battery: 80% (discharging), Cycle Count: 23
+[Sat Apr 05 12:49:26 IST 2025] [Sat Apr 05 12:49:26 IST 2025] Battery: 80% (discharging), Cycle Count: 23
+[Sat Apr 05 12:50:26 IST 2025] [Sat Apr 05 12:50:26 IST 2025] Battery: 80% (discharging), Cycle Count: 23
+[Sat Apr 05 12:50:56 IST 2025] [Sat Apr 05 12:50:56 IST 2025] Battery: 80% (discharging), Cycle Count: 23
+[Sat Apr 05 12:50:57 IST 2025] Pushbullet notification sent: Battery Update
+[Sat Apr 05 12:50:57 IST 2025] Milestone reached: Battery is at 80% and discharging.
+[Sat Apr 05 12:51:26 IST 2025] [Sat Apr 05 12:51:26 IST 2025] Battery: 80% (discharging), Cycle Count: 23
+[Sat Apr 05 12:51:27 IST 2025] [Sat Apr 05 12:51:27 IST 2025] Battery: 80% (discharging), Cycle Count: 23
+[Sat Apr 05 12:51:57 IST 2025] [Sat Apr 05 12:51:57 IST 2025] Battery: 80% (discharging), Cycle Count: 23
+[Sat Apr 05 12:52:03 IST 2025] [Sat Apr 05 12:52:03 IST 2025] Battery: 80% (discharging), Cycle Count: 23
+[Sat Apr 05 12:52:04 IST 2025] Pushbullet notification sent: Battery Update
+[Sat Apr 05 12:52:04 IST 2025] Milestone reached: Battery is at 80% and discharging.
+[Sat Apr 05 12:52:27 IST 2025] [Sat Apr 05 12:52:27 IST 2025] Battery: 80% (discharging), Cycle Count: 23
+[Sat Apr 05 12:52:27 IST 2025] [Sat Apr 05 12:52:27 IST 2025] Battery: 80% (discharging), Cycle Count: 23
+[Sat Apr 05 12:52:34 IST 2025] [Sat Apr 05 12:52:34 IST 2025] Battery: 80% (discharging), Cycle Count: 23
+[Sat Apr 05 12:52:57 IST 2025] [Sat Apr 05 12:52:57 IST 2025] Battery: 80% (discharging), Cycle Count: 23
+[Sat Apr 05 12:53:04 IST 2025] [Sat Apr 05 12:53:04 IST 2025] Battery: 80% (discharging), Cycle Count: 23
+[Sat Apr 05 12:53:27 IST 2025] [Sat Apr 05 12:53:27 IST 2025] Battery: 80% (discharging), Cycle Count: 23
+[Sat Apr 05 12:53:28 IST 2025] [Sat Apr 05 12:53:28 IST 2025] Battery: 80% (discharging), Cycle Count: 23
+[Sat Apr 05 12:53:35 IST 2025] [Sat Apr 05 12:53:35 IST 2025] Battery: 80% (discharging), Cycle Count: 23
+[Sat Apr 05 12:53:58 IST 2025] [Sat Apr 05 12:53:58 IST 2025] Battery: 80% (discharging), Cycle Count: 23
+[Sat Apr 05 12:54:05 IST 2025] [Sat Apr 05 12:54:05 IST 2025] Battery: 80% (discharging), Cycle Count: 23
+[Sat Apr 05 12:54:27 IST 2025] [Sat Apr 05 12:54:27 IST 2025] Battery: 80% (discharging), Cycle Count: 23
+[Sat Apr 05 12:54:28 IST 2025] [Sat Apr 05 12:54:28 IST 2025] Battery: 80% (discharging), Cycle Count: 23
+[Sat Apr 05 12:54:35 IST 2025] [Sat Apr 05 12:54:35 IST 2025] Battery: 80% (discharging), Cycle Count: 23
+[Sat Apr 05 12:54:58 IST 2025] [Sat Apr 05 12:54:58 IST 2025] Battery: 80% (discharging), Cycle Count: 23
+[Sat Apr 05 12:55:05 IST 2025] [Sat Apr 05 12:55:05 IST 2025] Battery: 80% (discharging), Cycle Count: 23
+[Sat Apr 05 12:55:27 IST 2025] [Sat Apr 05 12:55:27 IST 2025] Battery: 80% (discharging), Cycle Count: 23
+[Sat Apr 05 12:55:28 IST 2025] [Sat Apr 05 12:55:28 IST 2025] Battery: 80% (discharging), Cycle Count: 23
+[Sat Apr 05 12:55:35 IST 2025] [Sat Apr 05 12:55:35 IST 2025] Battery: 80% (discharging), Cycle Count: 23
+[Sat Apr 05 12:55:58 IST 2025] [Sat Apr 05 12:55:58 IST 2025] Battery: 80% (discharging), Cycle Count: 23
+[Sat Apr 05 12:56:06 IST 2025] [Sat Apr 05 12:56:06 IST 2025] Battery: 80% (discharging), Cycle Count: 23
+[Sat Apr 05 12:56:27 IST 2025] [Sat Apr 05 12:56:27 IST 2025] Battery: 80% (discharging), Cycle Count: 23
+[Sat Apr 05 12:56:29 IST 2025] [Sat Apr 05 12:56:29 IST 2025] Battery: 80% (discharging), Cycle Count: 23
+[Sat Apr 05 12:56:36 IST 2025] [Sat Apr 05 12:56:36 IST 2025] Battery: 80% (discharging), Cycle Count: 23
+[Sat Apr 05 12:56:59 IST 2025] [Sat Apr 05 12:56:59 IST 2025] Battery: 80% (discharging), Cycle Count: 23
+[Sat Apr 05 12:57:06 IST 2025] [Sat Apr 05 12:57:06 IST 2025] Battery: 80% (discharging), Cycle Count: 23
+[Sat Apr 05 12:57:28 IST 2025] [Sat Apr 05 12:57:28 IST 2025] Battery: 80% (discharging), Cycle Count: 23
+[Sat Apr 05 12:57:29 IST 2025] [Sat Apr 05 12:57:29 IST 2025] Battery: 80% (discharging), Cycle Count: 23
+[Sat Apr 05 12:57:36 IST 2025] [Sat Apr 05 12:57:36 IST 2025] Battery: 80% (discharging), Cycle Count: 23
+[Sat Apr 05 12:57:59 IST 2025] [Sat Apr 05 12:57:59 IST 2025] Battery: 80% (discharging), Cycle Count: 23
+[Sat Apr 05 12:58:06 IST 2025] [Sat Apr 05 12:58:06 IST 2025] Battery: 80% (discharging), Cycle Count: 23
+[Sat Apr 05 12:58:28 IST 2025] [Sat Apr 05 12:58:28 IST 2025] Battery: 80% (discharging), Cycle Count: 23
+[Sat Apr 05 12:58:29 IST 2025] [Sat Apr 05 12:58:29 IST 2025] Battery: 80% (discharging), Cycle Count: 23
+[Sat Apr 05 12:58:37 IST 2025] [Sat Apr 05 12:58:37 IST 2025] Battery: 80% (discharging), Cycle Count: 23
+[Sat Apr 05 12:59:00 IST 2025] [Sat Apr 05 12:59:00 IST 2025] Battery: 80% (discharging), Cycle Count: 23
+[Sat Apr 05 12:59:07 IST 2025] [Sat Apr 05 12:59:07 IST 2025] Battery: 80% (discharging), Cycle Count: 23
+[Sat Apr 05 12:59:28 IST 2025] [Sat Apr 05 12:59:28 IST 2025] Battery: 80% (discharging), Cycle Count: 23
+[Sat Apr 05 12:59:30 IST 2025] [Sat Apr 05 12:59:30 IST 2025] Battery: 80% (discharging), Cycle Count: 23
+[Sat Apr 05 12:59:37 IST 2025] [Sat Apr 05 12:59:37 IST 2025] Battery: 80% (discharging), Cycle Count: 23
+[Sat Apr 05 13:00:00 IST 2025] [Sat Apr 05 13:00:00 IST 2025] Battery: 80% (discharging), Cycle Count: 23
+[Sat Apr 05 13:00:07 IST 2025] [Sat Apr 05 13:00:07 IST 2025] Battery: 80% (discharging), Cycle Count: 23
+[Sat Apr 05 13:00:28 IST 2025] [Sat Apr 05 13:00:28 IST 2025] Battery: 80% (discharging), Cycle Count: 23
+[Sat Apr 05 13:00:30 IST 2025] [Sat Apr 05 13:00:30 IST 2025] Battery: 80% (discharging), Cycle Count: 23
+[Sat Apr 05 13:00:37 IST 2025] [Sat Apr 05 13:00:37 IST 2025] Battery: 80% (discharging), Cycle Count: 23
+[Sat Apr 05 13:01:00 IST 2025] [Sat Apr 05 13:01:00 IST 2025] Battery: 80% (discharging), Cycle Count: 23
+[Sat Apr 05 13:01:08 IST 2025] [Sat Apr 05 13:01:08 IST 2025] Battery: 80% (discharging), Cycle Count: 23
+[Sat Apr 05 13:01:28 IST 2025] [Sat Apr 05 13:01:28 IST 2025] Battery: 80% (discharging), Cycle Count: 23
+[Sat Apr 05 13:01:30 IST 2025] [Sat Apr 05 13:01:30 IST 2025] Battery: 80% (discharging), Cycle Count: 23
+[Sat Apr 05 13:01:38 IST 2025] [Sat Apr 05 13:01:38 IST 2025] Battery: 80% (discharging), Cycle Count: 23
+[Sat Apr 05 13:02:01 IST 2025] [Sat Apr 05 13:02:01 IST 2025] Battery: 80% (discharging), Cycle Count: 23
+[Sat Apr 05 13:02:08 IST 2025] [Sat Apr 05 13:02:08 IST 2025] Battery: 80% (discharging), Cycle Count: 23
+[Sat Apr 05 13:02:28 IST 2025] [Sat Apr 05 13:02:28 IST 2025] Battery: 80% (discharging), Cycle Count: 23
+[Sat Apr 05 13:02:31 IST 2025] [Sat Apr 05 13:02:31 IST 2025] Battery: 80% (discharging), Cycle Count: 23
+[Sat Apr 05 13:02:38 IST 2025] [Sat Apr 05 13:02:38 IST 2025] Battery: 80% (discharging), Cycle Count: 23
+[Sat Apr 05 13:03:01 IST 2025] [Sat Apr 05 13:03:01 IST 2025] Battery: 80% (discharging), Cycle Count: 23
+[Sat Apr 05 13:03:08 IST 2025] [Sat Apr 05 13:03:08 IST 2025] Battery: 80% (discharging), Cycle Count: 23
+[Sat Apr 05 13:03:29 IST 2025] [Sat Apr 05 13:03:29 IST 2025] Battery: 80% (discharging), Cycle Count: 23
+[Sat Apr 05 13:03:31 IST 2025] [Sat Apr 05 13:03:31 IST 2025] Battery: 80% (discharging), Cycle Count: 23
+[Sat Apr 05 13:03:39 IST 2025] [Sat Apr 05 13:03:39 IST 2025] Battery: 80% (discharging), Cycle Count: 23
+[Sat Apr 05 13:04:01 IST 2025] [Sat Apr 05 13:04:01 IST 2025] Battery: 80% (discharging), Cycle Count: 23
+[Sat Apr 05 13:04:09 IST 2025] [Sat Apr 05 13:04:09 IST 2025] Battery: 80% (discharging), Cycle Count: 23
+[Sat Apr 05 13:04:29 IST 2025] [Sat Apr 05 13:04:29 IST 2025] Battery: 80% (discharging), Cycle Count: 23
+[Sat Apr 05 13:04:31 IST 2025] [Sat Apr 05 13:04:31 IST 2025] Battery: 80% (discharging), Cycle Count: 23
+[Sat Apr 05 13:04:39 IST 2025] [Sat Apr 05 13:04:39 IST 2025] Battery: 80% (discharging), Cycle Count: 23
+[Sat Apr 05 13:05:02 IST 2025] [Sat Apr 05 13:05:02 IST 2025] Battery: 80% (discharging), Cycle Count: 23
+[Sat Apr 05 13:05:09 IST 2025] [Sat Apr 05 13:05:09 IST 2025] Battery: 80% (discharging), Cycle Count: 23
