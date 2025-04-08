@@ -1,24 +1,54 @@
-# 🔋 Battery Notifier (macOS)
+# 🔋 BatteryNotifier for macOS
 
-A lightweight Java-based battery monitoring tool for macOS that keeps you informed with system notifications and Pushbullet alerts.
+A Java-based background utility that monitors your MacBook's battery status and provides timely **notifications**, **logs**, and **Pushbullet alerts** to help you maintain battery health and stay informed.
 
-## ✨ Features
+## 📌 Features
 
-- 🔔 Sends notifications on every **10% battery drop/gain**
-- 🔌 Notifies when the laptop is **plugged in or unplugged**
-- ⚠️ Alerts when the **battery cycle count exceeds 800**
-- 📈 Logs battery data in `battery_log.txt`
-- ✅ Works in background and prevents system sleep using `caffeinate`
+- 🚨 **Notifications on Critical Battery Levels**  
+  - 🔌 Plug in reminder at **20%**
+  - 🔋 Unplug reminder at **80%**
+
+- ♻️ **Continuous Alerts Between Thresholds**  
+  - Charging: 80–85%  
+  - Discharging: 25–20%  
+
+- 🔄 **10% Drop/Gain Notifications**  
+  - Alerts on every 10% change in battery level
+
+- ⚡ **Charger Connect/Disconnect Alerts**
+
+- 📉 **Battery Cycle Count Monitoring**  
+  - Warns when cycle count exceeds **800**
+
+- 🖥️ **Native macOS Notifications using `osascript`**
+
+- ☁️ **Push Notifications via Pushbullet**
+
+- 📝 **Battery Logs with Timestamp**
+
+---
+
+## 🚀 How It Works
+
+Runs a background Java process that:
+1. Monitors battery status using macOS `pmset` and `system_profiler` commands.
+2. Sends native notifications and Pushbullet alerts.
+3. Logs events in a `battery_log.txt` file.
+4. Uses `caffeinate` to keep your Mac awake.
+
+---
 
 ## 📦 Requirements
 
-- macOS system
-- Java installed (`java -version`)
-- Pushbullet account and API key (optional, for phone notifications)
+- macOS
+- Java 8+ installed
+- Pushbullet account (for push notifications)
 
-## 🚀 How to Use
+---
 
-1. **Clone the repo**
-   ```bash
-   git clone https://github.com/Himanshu04-stack/BatteryNotifier.git
-   cd BatteryNotifier
+## 🔧 Setup
+
+### 1. Clone the Repo
+```bash
+git clone https://github.com/your-username/BatteryNotifier.git
+cd BatteryNotifier
